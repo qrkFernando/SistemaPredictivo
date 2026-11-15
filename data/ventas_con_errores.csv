@@ -1,0 +1,14 @@
+fecha,sede,producto,cantidad,turno,hora,temperatura,lluvia
+2026-10-01,San Carlos,Pollo broaster,45,Noche,20,14,0
+2026-10-02,San Carlos,Pollo broaster,48,Noche,20,14,0
+2026-10-03,San Carlos,Pollo broaster,43,Noche,20,14,0
+2026-10-04,San Carlos,Pollo broaster,46,Noche,20,14,0
+2026-10-05,San Carlos,Pollo broaster,49,Noche,20,14,0
+2026-10-06,San Carlos,Pollo broaster,45,Noche,20,14,0
+2026-10-07,San Carlos,Pollo broaster,47,Noche,20,14,0
+2026-10-08,San Carlos,Pollo broaster,46,Noche,20,14,0
+2026-10-09,San Carlos,Pollo broaster,5000,Noche,20,14,0
+2026-10-10,San Carlos,Pollo broaster,-8,Noche,20,14,0
+2026-10-11,San Carlos,Pollo broaster,,Noche,20,14,0
+fecha incorrecta,San Carlos,Pollo broaster,45,Noche,20,14,0
+2026-10-01,San Carlos,Pollo broaster,45,Noche,20,14,0

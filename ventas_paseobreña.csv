@@ -1,0 +1,305 @@
+fecha,sede,producto,cantidad,turno,hora,temperatura,lluvia,evento
+2026-04-24,Paseo la Breña,Alitas BBQ,20,Almuerzo,13,14.2,3.1,0
+2026-04-24,Paseo la Breña,Alitas BBQ,32,Noche,20,14.2,3.1,0
+2026-04-24,Paseo la Breña,Hamburguesa,26,Almuerzo,13,14.2,3.1,0
+2026-04-24,Paseo la Breña,Hamburguesa,40,Noche,20,14.2,3.1,0
+2026-04-24,Paseo la Breña,Pollo broaster,37,Almuerzo,13,14.2,3.1,0
+2026-04-24,Paseo la Breña,Pollo broaster,61,Noche,20,14.2,3.1,0
+2026-04-24,Paseo la Breña,Salchipapa,32,Almuerzo,13,14.2,3.1,0
+2026-04-24,Paseo la Breña,Salchipapa,51,Noche,20,14.2,3.1,0
+2026-04-25,Paseo la Breña,Alitas BBQ,17,Almuerzo,13,13.1,0.8,0
+2026-04-25,Paseo la Breña,Alitas BBQ,34,Noche,20,13.1,0.8,0
+2026-04-25,Paseo la Breña,Hamburguesa,30,Almuerzo,13,13.1,0.8,0
+2026-04-25,Paseo la Breña,Hamburguesa,42,Noche,20,13.1,0.8,0
+2026-04-25,Paseo la Breña,Pollo broaster,32,Almuerzo,13,13.1,0.8,0
+2026-04-25,Paseo la Breña,Pollo broaster,71,Noche,20,13.1,0.8,0
+2026-04-25,Paseo la Breña,Salchipapa,35,Almuerzo,13,13.1,0.8,0
+2026-04-25,Paseo la Breña,Salchipapa,54,Noche,20,13.1,0.8,0
+2026-04-26,Paseo la Breña,Alitas BBQ,23,Almuerzo,13,12.9,2.1,0
+2026-04-26,Paseo la Breña,Alitas BBQ,32,Noche,20,12.9,2.1,0
+2026-04-26,Paseo la Breña,Hamburguesa,26,Almuerzo,13,12.9,2.1,0
+2026-04-26,Paseo la Breña,Hamburguesa,43,Noche,20,12.9,2.1,0
+2026-04-26,Paseo la Breña,Pollo broaster,47,Almuerzo,13,12.9,2.1,0
+2026-04-26,Paseo la Breña,Pollo broaster,67,Noche,20,12.9,2.1,0
+2026-04-26,Paseo la Breña,Salchipapa,32,Almuerzo,13,12.9,2.1,0
+2026-04-26,Paseo la Breña,Salchipapa,48,Noche,20,12.9,2.1,0
+2026-04-27,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,15.3,0,0
+2026-04-27,Paseo la Breña,Alitas BBQ,19,Noche,20,15.3,0,0
+2026-04-27,Paseo la Breña,Hamburguesa,20,Almuerzo,13,15.3,0,0
+2026-04-27,Paseo la Breña,Hamburguesa,25,Noche,20,15.3,0,0
+2026-04-27,Paseo la Breña,Pollo broaster,29,Almuerzo,13,15.3,0,0
+2026-04-27,Paseo la Breña,Pollo broaster,49,Noche,20,15.3,0,0
+2026-04-27,Paseo la Breña,Salchipapa,23,Almuerzo,13,15.3,0,0
+2026-04-27,Paseo la Breña,Salchipapa,30,Noche,20,15.3,0,0
+2026-04-28,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,13.8,3.5,0
+2026-04-28,Paseo la Breña,Alitas BBQ,23,Noche,20,13.8,3.5,0
+2026-04-28,Paseo la Breña,Hamburguesa,19,Almuerzo,13,13.8,3.5,0
+2026-04-28,Paseo la Breña,Hamburguesa,29,Noche,20,13.8,3.5,0
+2026-04-28,Paseo la Breña,Pollo broaster,28,Almuerzo,13,13.8,3.5,0
+2026-04-28,Paseo la Breña,Pollo broaster,44,Noche,20,13.8,3.5,0
+2026-04-28,Paseo la Breña,Salchipapa,23,Almuerzo,13,13.8,3.5,0
+2026-04-28,Paseo la Breña,Salchipapa,35,Noche,20,13.8,3.5,0
+2026-04-29,Paseo la Breña,Alitas BBQ,18,Almuerzo,13,14.5,0,0
+2026-04-29,Paseo la Breña,Alitas BBQ,25,Noche,20,14.5,0,0
+2026-04-29,Paseo la Breña,Hamburguesa,22,Almuerzo,13,14.5,0,0
+2026-04-29,Paseo la Breña,Hamburguesa,30,Noche,20,14.5,0,0
+2026-04-29,Paseo la Breña,Pollo broaster,32,Almuerzo,13,14.5,0,0
+2026-04-29,Paseo la Breña,Pollo broaster,38,Noche,20,14.5,0,0
+2026-04-29,Paseo la Breña,Salchipapa,19,Almuerzo,13,14.5,0,0
+2026-04-29,Paseo la Breña,Salchipapa,33,Noche,20,14.5,0,0
+2026-04-30,Paseo la Breña,Alitas BBQ,13,Almuerzo,13,13.3,2.9,0
+2026-04-30,Paseo la Breña,Alitas BBQ,19,Noche,20,13.3,2.9,0
+2026-04-30,Paseo la Breña,Hamburguesa,17,Almuerzo,13,13.3,2.9,0
+2026-04-30,Paseo la Breña,Hamburguesa,22,Noche,20,13.3,2.9,0
+2026-04-30,Paseo la Breña,Pollo broaster,32,Almuerzo,13,13.3,2.9,0
+2026-04-30,Paseo la Breña,Pollo broaster,40,Noche,20,13.3,2.9,0
+2026-04-30,Paseo la Breña,Salchipapa,23,Almuerzo,13,13.3,2.9,0
+2026-04-30,Paseo la Breña,Salchipapa,38,Noche,20,13.3,2.9,0
+2026-05-01,Paseo la Breña,Alitas BBQ,15,Almuerzo,13,15.8,0,0
+2026-05-01,Paseo la Breña,Alitas BBQ,33,Noche,20,15.8,0,0
+2026-05-01,Paseo la Breña,Hamburguesa,24,Almuerzo,13,15.8,0,0
+2026-05-01,Paseo la Breña,Hamburguesa,41,Noche,20,15.8,0,0
+2026-05-01,Paseo la Breña,Pollo broaster,47,Almuerzo,13,15.8,0,0
+2026-05-01,Paseo la Breña,Pollo broaster,75,Noche,20,15.8,0,0
+2026-05-01,Paseo la Breña,Salchipapa,27,Almuerzo,13,15.8,0,0
+2026-05-01,Paseo la Breña,Salchipapa,49,Noche,20,15.8,0,0
+2026-05-02,Paseo la Breña,Alitas BBQ,21,Almuerzo,13,12.8,3.2,0
+2026-05-02,Paseo la Breña,Alitas BBQ,31,Noche,20,12.8,3.2,0
+2026-05-02,Paseo la Breña,Hamburguesa,23,Almuerzo,13,12.8,3.2,0
+2026-05-02,Paseo la Breña,Hamburguesa,33,Noche,20,12.8,3.2,0
+2026-05-02,Paseo la Breña,Pollo broaster,49,Almuerzo,13,12.8,3.2,0
+2026-05-02,Paseo la Breña,Pollo broaster,62,Noche,20,12.8,3.2,0
+2026-05-02,Paseo la Breña,Salchipapa,25,Almuerzo,13,12.8,3.2,0
+2026-05-02,Paseo la Breña,Salchipapa,50,Noche,20,12.8,3.2,0
+2026-05-03,Paseo la Breña,Alitas BBQ,23,Almuerzo,13,14.1,0,0
+2026-05-03,Paseo la Breña,Alitas BBQ,30,Noche,20,14.1,0,0
+2026-05-03,Paseo la Breña,Hamburguesa,29,Almuerzo,13,14.1,0,0
+2026-05-03,Paseo la Breña,Hamburguesa,41,Noche,20,14.1,0,0
+2026-05-03,Paseo la Breña,Pollo broaster,40,Almuerzo,13,14.1,0,0
+2026-05-03,Paseo la Breña,Pollo broaster,73,Noche,20,14.1,0,0
+2026-05-03,Paseo la Breña,Salchipapa,32,Almuerzo,13,14.1,0,0
+2026-05-03,Paseo la Breña,Salchipapa,49,Noche,20,14.1,0,0
+2026-05-04,Paseo la Breña,Alitas BBQ,17,Almuerzo,13,14.3,3.1,0
+2026-05-04,Paseo la Breña,Alitas BBQ,13,Noche,20,14.3,3.1,0
+2026-05-04,Paseo la Breña,Hamburguesa,19,Almuerzo,13,14.3,3.1,0
+2026-05-04,Paseo la Breña,Hamburguesa,15,Noche,20,14.3,3.1,0
+2026-05-04,Paseo la Breña,Pollo broaster,23,Almuerzo,13,14.3,3.1,0
+2026-05-04,Paseo la Breña,Pollo broaster,46,Noche,20,14.3,3.1,0
+2026-05-04,Paseo la Breña,Salchipapa,17,Almuerzo,13,14.3,3.1,0
+2026-05-04,Paseo la Breña,Salchipapa,35,Noche,20,14.3,3.1,0
+2026-05-05,Paseo la Breña,Alitas BBQ,13,Almuerzo,13,14.6,0,0
+2026-05-05,Paseo la Breña,Alitas BBQ,18,Noche,20,14.6,0,0
+2026-05-05,Paseo la Breña,Hamburguesa,10,Almuerzo,13,14.6,0,0
+2026-05-05,Paseo la Breña,Hamburguesa,30,Noche,20,14.6,0,0
+2026-05-05,Paseo la Breña,Pollo broaster,22,Almuerzo,13,14.6,0,0
+2026-05-05,Paseo la Breña,Pollo broaster,49,Noche,20,14.6,0,0
+2026-05-05,Paseo la Breña,Salchipapa,17,Almuerzo,13,14.6,0,0
+2026-05-05,Paseo la Breña,Salchipapa,27,Noche,20,14.6,0,0
+2026-05-06,Paseo la Breña,Alitas BBQ,10,Almuerzo,13,15.9,4.0,0
+2026-05-06,Paseo la Breña,Alitas BBQ,26,Noche,20,15.9,4.0,0
+2026-05-06,Paseo la Breña,Hamburguesa,14,Almuerzo,13,15.9,4.0,0
+2026-05-06,Paseo la Breña,Hamburguesa,32,Noche,20,15.9,4.0,0
+2026-05-06,Paseo la Breña,Pollo broaster,19,Almuerzo,13,15.9,4.0,0
+2026-05-06,Paseo la Breña,Pollo broaster,41,Noche,20,15.9,4.0,0
+2026-05-06,Paseo la Breña,Salchipapa,20,Almuerzo,13,15.9,4.0,0
+2026-05-06,Paseo la Breña,Salchipapa,27,Noche,20,15.9,4.0,0
+2026-05-07,Paseo la Breña,Alitas BBQ,13,Almuerzo,13,14.4,0,0
+2026-05-07,Paseo la Breña,Alitas BBQ,17,Noche,20,14.4,0,0
+2026-05-07,Paseo la Breña,Hamburguesa,13,Almuerzo,13,14.4,0,0
+2026-05-07,Paseo la Breña,Hamburguesa,18,Noche,20,14.4,0,0
+2026-05-07,Paseo la Breña,Pollo broaster,21,Almuerzo,13,14.4,0,0
+2026-05-07,Paseo la Breña,Pollo broaster,44,Noche,20,14.4,0,0
+2026-05-07,Paseo la Breña,Salchipapa,17,Almuerzo,13,14.4,0,0
+2026-05-07,Paseo la Breña,Salchipapa,28,Noche,20,14.4,0,0
+2026-05-08,Paseo la Breña,Alitas BBQ,22,Almuerzo,13,14.3,7.5,0
+2026-05-08,Paseo la Breña,Alitas BBQ,30,Noche,20,14.3,7.5,0
+2026-05-08,Paseo la Breña,Hamburguesa,20,Almuerzo,13,14.3,7.5,0
+2026-05-08,Paseo la Breña,Hamburguesa,39,Noche,20,14.3,7.5,0
+2026-05-08,Paseo la Breña,Pollo broaster,44,Almuerzo,13,14.3,7.5,0
+2026-05-08,Paseo la Breña,Pollo broaster,68,Noche,20,14.3,7.5,0
+2026-05-08,Paseo la Breña,Salchipapa,35,Almuerzo,13,14.3,7.5,0
+2026-05-08,Paseo la Breña,Salchipapa,43,Noche,20,14.3,7.5,0
+2026-05-09,Paseo la Breña,Alitas BBQ,19,Almuerzo,13,15.0,0.4,0
+2026-05-09,Paseo la Breña,Alitas BBQ,34,Noche,20,15.0,0.4,0
+2026-05-09,Paseo la Breña,Hamburguesa,25,Almuerzo,13,15.0,0.4,0
+2026-05-09,Paseo la Breña,Hamburguesa,40,Noche,20,15.0,0.4,0
+2026-05-09,Paseo la Breña,Pollo broaster,44,Almuerzo,13,15.0,0.4,0
+2026-05-09,Paseo la Breña,Pollo broaster,64,Noche,20,15.0,0.4,0
+2026-05-09,Paseo la Breña,Salchipapa,32,Almuerzo,13,15.0,0.4,0
+2026-05-09,Paseo la Breña,Salchipapa,48,Noche,20,15.0,0.4,0
+2026-05-10,Paseo la Breña,Alitas BBQ,17,Almuerzo,13,14.9,4.1,0
+2026-05-10,Paseo la Breña,Alitas BBQ,35,Noche,20,14.9,4.1,0
+2026-05-10,Paseo la Breña,Hamburguesa,27,Almuerzo,13,14.9,4.1,0
+2026-05-10,Paseo la Breña,Hamburguesa,46,Noche,20,14.9,4.1,0
+2026-05-10,Paseo la Breña,Pollo broaster,42,Almuerzo,13,14.9,4.1,0
+2026-05-10,Paseo la Breña,Pollo broaster,66,Noche,20,14.9,4.1,0
+2026-05-10,Paseo la Breña,Salchipapa,23,Almuerzo,13,14.9,4.1,0
+2026-05-10,Paseo la Breña,Salchipapa,50,Noche,20,14.9,4.1,0
+2026-05-11,Paseo la Breña,Alitas BBQ,12,Almuerzo,13,16.5,3.2,0
+2026-05-11,Paseo la Breña,Alitas BBQ,21,Noche,20,16.5,3.2,0
+2026-05-11,Paseo la Breña,Hamburguesa,17,Almuerzo,13,16.5,3.2,0
+2026-05-11,Paseo la Breña,Hamburguesa,25,Noche,20,16.5,3.2,0
+2026-05-11,Paseo la Breña,Pollo broaster,30,Almuerzo,13,16.5,3.2,0
+2026-05-11,Paseo la Breña,Pollo broaster,41,Noche,20,16.5,3.2,0
+2026-05-11,Paseo la Breña,Salchipapa,21,Almuerzo,13,16.5,3.2,0
+2026-05-11,Paseo la Breña,Salchipapa,29,Noche,20,16.5,3.2,0
+2026-05-12,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,14.8,0,0
+2026-05-12,Paseo la Breña,Alitas BBQ,23,Noche,20,14.8,0,0
+2026-05-12,Paseo la Breña,Hamburguesa,17,Almuerzo,13,14.8,0,0
+2026-05-12,Paseo la Breña,Hamburguesa,29,Noche,20,14.8,0,0
+2026-05-12,Paseo la Breña,Pollo broaster,31,Almuerzo,13,14.8,0,0
+2026-05-12,Paseo la Breña,Pollo broaster,47,Noche,20,14.8,0,0
+2026-05-12,Paseo la Breña,Salchipapa,22,Almuerzo,13,14.8,0,0
+2026-05-12,Paseo la Breña,Salchipapa,32,Noche,20,14.8,0,0
+2026-05-13,Paseo la Breña,Alitas BBQ,10,Almuerzo,13,15.1,8.1,0
+2026-05-13,Paseo la Breña,Alitas BBQ,24,Noche,20,15.1,8.1,0
+2026-05-13,Paseo la Breña,Hamburguesa,18,Almuerzo,13,15.1,8.1,0
+2026-05-13,Paseo la Breña,Hamburguesa,28,Noche,20,15.1,8.1,0
+2026-05-13,Paseo la Breña,Pollo broaster,25,Almuerzo,13,15.1,8.1,0
+2026-05-13,Paseo la Breña,Pollo broaster,40,Noche,20,15.1,8.1,0
+2026-05-13,Paseo la Breña,Salchipapa,20,Almuerzo,13,15.1,8.1,0
+2026-05-13,Paseo la Breña,Salchipapa,27,Noche,20,15.1,8.1,0
+2026-05-14,Paseo la Breña,Alitas BBQ,18,Almuerzo,13,16.9,3.6,0
+2026-05-14,Paseo la Breña,Alitas BBQ,22,Noche,20,16.9,3.6,0
+2026-05-14,Paseo la Breña,Hamburguesa,19,Almuerzo,13,16.9,3.6,0
+2026-05-14,Paseo la Breña,Hamburguesa,26,Noche,20,16.9,3.6,0
+2026-05-14,Paseo la Breña,Pollo broaster,21,Almuerzo,13,16.9,3.6,0
+2026-05-14,Paseo la Breña,Pollo broaster,53,Noche,20,16.9,3.6,0
+2026-05-14,Paseo la Breña,Salchipapa,20,Almuerzo,13,16.9,3.6,0
+2026-05-14,Paseo la Breña,Salchipapa,29,Noche,20,16.9,3.6,0
+2026-05-15,Paseo la Breña,Alitas BBQ,17,Almuerzo,13,16.4,3.1,0
+2026-05-15,Paseo la Breña,Alitas BBQ,30,Noche,20,16.4,3.1,0
+2026-05-15,Paseo la Breña,Hamburguesa,27,Almuerzo,13,16.4,3.1,0
+2026-05-15,Paseo la Breña,Hamburguesa,41,Noche,20,16.4,3.1,0
+2026-05-15,Paseo la Breña,Pollo broaster,44,Almuerzo,13,16.4,3.1,0
+2026-05-15,Paseo la Breña,Pollo broaster,63,Noche,20,16.4,3.1,0
+2026-05-15,Paseo la Breña,Salchipapa,33,Almuerzo,13,16.4,3.1,0
+2026-05-15,Paseo la Breña,Salchipapa,38,Noche,20,16.4,3.1,0
+2026-05-16,Paseo la Breña,Alitas BBQ,22,Almuerzo,13,16.1,0.8,0
+2026-05-16,Paseo la Breña,Alitas BBQ,35,Noche,20,16.1,0.8,0
+2026-05-16,Paseo la Breña,Hamburguesa,29,Almuerzo,13,16.1,0.8,0
+2026-05-16,Paseo la Breña,Hamburguesa,40,Noche,20,16.1,0.8,0
+2026-05-16,Paseo la Breña,Pollo broaster,50,Almuerzo,13,16.1,0.8,0
+2026-05-16,Paseo la Breña,Pollo broaster,65,Noche,20,16.1,0.8,0
+2026-05-16,Paseo la Breña,Salchipapa,30,Almuerzo,13,16.1,0.8,0
+2026-05-16,Paseo la Breña,Salchipapa,52,Noche,20,16.1,0.8,0
+2026-05-17,Paseo la Breña,Alitas BBQ,17,Almuerzo,13,14.9,2.6,0
+2026-05-17,Paseo la Breña,Alitas BBQ,31,Noche,20,14.9,2.6,0
+2026-05-17,Paseo la Breña,Hamburguesa,32,Almuerzo,13,14.9,2.6,0
+2026-05-17,Paseo la Breña,Hamburguesa,38,Noche,20,14.9,2.6,0
+2026-05-17,Paseo la Breña,Pollo broaster,49,Almuerzo,13,14.9,2.6,0
+2026-05-17,Paseo la Breña,Pollo broaster,71,Noche,20,14.9,2.6,0
+2026-05-17,Paseo la Breña,Salchipapa,34,Almuerzo,13,14.9,2.6,0
+2026-05-17,Paseo la Breña,Salchipapa,50,Noche,20,14.9,2.6,0
+2026-05-18,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,16.2,0,0
+2026-05-18,Paseo la Breña,Alitas BBQ,23,Noche,20,16.2,0,0
+2026-05-18,Paseo la Breña,Hamburguesa,21,Almuerzo,13,16.2,0,0
+2026-05-18,Paseo la Breña,Hamburguesa,36,Noche,20,16.2,0,0
+2026-05-18,Paseo la Breña,Pollo broaster,32,Almuerzo,13,16.2,0,0
+2026-05-18,Paseo la Breña,Pollo broaster,36,Noche,20,16.2,0,0
+2026-05-18,Paseo la Breña,Salchipapa,18,Almuerzo,13,16.2,0,0
+2026-05-18,Paseo la Breña,Salchipapa,24,Noche,20,16.2,0,0
+2026-05-19,Paseo la Breña,Alitas BBQ,13,Almuerzo,13,15.5,0,0
+2026-05-19,Paseo la Breña,Alitas BBQ,21,Noche,20,15.5,0,0
+2026-05-19,Paseo la Breña,Hamburguesa,18,Almuerzo,13,15.5,0,0
+2026-05-19,Paseo la Breña,Hamburguesa,27,Noche,20,15.5,0,0
+2026-05-19,Paseo la Breña,Pollo broaster,20,Almuerzo,13,15.5,0,0
+2026-05-19,Paseo la Breña,Pollo broaster,52,Noche,20,15.5,0,0
+2026-05-19,Paseo la Breña,Salchipapa,24,Almuerzo,13,15.5,0,0
+2026-05-19,Paseo la Breña,Salchipapa,31,Noche,20,15.5,0,0
+2026-05-20,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,16.7,1.2,0
+2026-05-20,Paseo la Breña,Alitas BBQ,18,Noche,20,16.7,1.2,0
+2026-05-20,Paseo la Breña,Hamburguesa,10,Almuerzo,13,16.7,1.2,0
+2026-05-20,Paseo la Breña,Hamburguesa,26,Noche,20,16.7,1.2,0
+2026-05-20,Paseo la Breña,Pollo broaster,25,Almuerzo,13,16.7,1.2,0
+2026-05-20,Paseo la Breña,Pollo broaster,35,Noche,20,16.7,1.2,0
+2026-05-20,Paseo la Breña,Salchipapa,20,Almuerzo,13,16.7,1.2,0
+2026-05-20,Paseo la Breña,Salchipapa,32,Noche,20,16.7,1.2,0
+2026-05-21,Paseo la Breña,Alitas BBQ,16,Almuerzo,13,14.1,0,0
+2026-05-21,Paseo la Breña,Alitas BBQ,23,Noche,20,14.1,0,0
+2026-05-21,Paseo la Breña,Hamburguesa,13,Almuerzo,13,14.1,0,0
+2026-05-21,Paseo la Breña,Hamburguesa,26,Noche,20,14.1,0,0
+2026-05-21,Paseo la Breña,Pollo broaster,30,Almuerzo,13,14.1,0,0
+2026-05-21,Paseo la Breña,Pollo broaster,45,Noche,20,14.1,0,0
+2026-05-21,Paseo la Breña,Salchipapa,20,Almuerzo,13,14.1,0,0
+2026-05-21,Paseo la Breña,Salchipapa,29,Noche,20,14.1,0,0
+2026-05-22,Paseo la Breña,Alitas BBQ,22,Almuerzo,13,15.6,3.1,0
+2026-05-22,Paseo la Breña,Alitas BBQ,35,Noche,20,15.6,3.1,0
+2026-05-22,Paseo la Breña,Hamburguesa,27,Almuerzo,13,15.6,3.1,0
+2026-05-22,Paseo la Breña,Hamburguesa,43,Noche,20,15.6,3.1,0
+2026-05-22,Paseo la Breña,Pollo broaster,44,Almuerzo,13,15.6,3.1,0
+2026-05-22,Paseo la Breña,Pollo broaster,71,Noche,20,15.6,3.1,0
+2026-05-22,Paseo la Breña,Salchipapa,35,Almuerzo,13,15.6,3.1,0
+2026-05-22,Paseo la Breña,Salchipapa,45,Noche,20,15.6,3.1,0
+2026-05-23,Paseo la Breña,Alitas BBQ,21,Almuerzo,13,14.5,6.2,0
+2026-05-23,Paseo la Breña,Alitas BBQ,32,Noche,20,14.5,6.2,0
+2026-05-23,Paseo la Breña,Hamburguesa,24,Almuerzo,13,14.5,6.2,0
+2026-05-23,Paseo la Breña,Hamburguesa,43,Noche,20,14.5,6.2,0
+2026-05-23,Paseo la Breña,Pollo broaster,44,Almuerzo,13,14.5,6.2,0
+2026-05-23,Paseo la Breña,Pollo broaster,58,Noche,20,14.5,6.2,0
+2026-05-23,Paseo la Breña,Salchipapa,37,Almuerzo,13,14.5,6.2,0
+2026-05-23,Paseo la Breña,Salchipapa,44,Noche,20,14.5,6.2,0
+2026-05-24,Paseo la Breña,Alitas BBQ,23,Almuerzo,13,15.5,2.3,0
+2026-05-24,Paseo la Breña,Alitas BBQ,32,Noche,20,15.5,2.3,0
+2026-05-24,Paseo la Breña,Hamburguesa,29,Almuerzo,13,15.5,2.3,0
+2026-05-24,Paseo la Breña,Hamburguesa,42,Noche,20,15.5,2.3,0
+2026-05-24,Paseo la Breña,Pollo broaster,45,Almuerzo,13,15.5,2.3,0
+2026-05-24,Paseo la Breña,Pollo broaster,70,Noche,20,15.5,2.3,0
+2026-05-24,Paseo la Breña,Salchipapa,32,Almuerzo,13,15.5,2.3,0
+2026-05-24,Paseo la Breña,Salchipapa,49,Noche,20,15.5,2.3,0
+2026-05-25,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,16.5,4.0,0
+2026-05-25,Paseo la Breña,Alitas BBQ,23,Noche,20,16.5,4.0,0
+2026-05-25,Paseo la Breña,Hamburguesa,14,Almuerzo,13,16.5,4.0,0
+2026-05-25,Paseo la Breña,Hamburguesa,27,Noche,20,16.5,4.0,0
+2026-05-25,Paseo la Breña,Pollo broaster,31,Almuerzo,13,16.5,4.0,0
+2026-05-25,Paseo la Breña,Pollo broaster,44,Noche,20,16.5,4.0,0
+2026-05-25,Paseo la Breña,Salchipapa,29,Almuerzo,13,16.5,4.0,0
+2026-05-25,Paseo la Breña,Salchipapa,29,Noche,20,16.5,4.0,0
+2026-05-26,Paseo la Breña,Alitas BBQ,11,Almuerzo,13,16.7,4.9,0
+2026-05-26,Paseo la Breña,Alitas BBQ,21,Noche,20,16.7,4.9,0
+2026-05-26,Paseo la Breña,Hamburguesa,15,Almuerzo,13,16.7,4.9,0
+2026-05-26,Paseo la Breña,Hamburguesa,27,Noche,20,16.7,4.9,0
+2026-05-26,Paseo la Breña,Pollo broaster,28,Almuerzo,13,16.7,4.9,0
+2026-05-26,Paseo la Breña,Pollo broaster,58,Noche,20,16.7,4.9,0
+2026-05-26,Paseo la Breña,Salchipapa,22,Almuerzo,13,16.7,4.9,0
+2026-05-26,Paseo la Breña,Salchipapa,35,Noche,20,16.7,4.9,0
+2026-05-27,Paseo la Breña,Alitas BBQ,11,Almuerzo,13,16.6,5.5,0
+2026-05-27,Paseo la Breña,Alitas BBQ,20,Noche,20,16.6,5.5,0
+2026-05-27,Paseo la Breña,Hamburguesa,27,Almuerzo,13,16.6,5.5,0
+2026-05-27,Paseo la Breña,Hamburguesa,27,Noche,20,16.6,5.5,0
+2026-05-27,Paseo la Breña,Pollo broaster,28,Almuerzo,13,16.6,5.5,0
+2026-05-27,Paseo la Breña,Pollo broaster,42,Noche,20,16.6,5.5,0
+2026-05-27,Paseo la Breña,Salchipapa,16,Almuerzo,13,16.6,5.5,0
+2026-05-27,Paseo la Breña,Salchipapa,35,Noche,20,16.6,5.5,0
+2026-05-28,Paseo la Breña,Alitas BBQ,14,Almuerzo,13,15.9,2.1,0
+2026-05-28,Paseo la Breña,Alitas BBQ,23,Noche,20,15.9,2.1,0
+2026-05-28,Paseo la Breña,Hamburguesa,14,Almuerzo,13,15.9,2.1,0
+2026-05-28,Paseo la Breña,Hamburguesa,22,Noche,20,15.9,2.1,0
+2026-05-28,Paseo la Breña,Pollo broaster,27,Almuerzo,13,15.9,2.1,0
+2026-05-28,Paseo la Breña,Pollo broaster,49,Noche,20,15.9,2.1,0
+2026-05-28,Paseo la Breña,Salchipapa,22,Almuerzo,13,15.9,2.1,0
+2026-05-28,Paseo la Breña,Salchipapa,28,Noche,20,15.9,2.1,0
+2026-05-29,Paseo la Breña,Alitas BBQ,23,Almuerzo,13,16.9,0,0
+2026-05-29,Paseo la Breña,Alitas BBQ,37,Noche,20,16.9,0,0
+2026-05-29,Paseo la Breña,Hamburguesa,31,Almuerzo,13,16.9,0,0
+2026-05-29,Paseo la Breña,Hamburguesa,43,Noche,20,16.9,0,0
+2026-05-29,Paseo la Breña,Pollo broaster,40,Almuerzo,13,16.9,0,0
+2026-05-29,Paseo la Breña,Pollo broaster,62,Noche,20,16.9,0,0
+2026-05-29,Paseo la Breña,Salchipapa,42,Almuerzo,13,16.9,0,0
+2026-05-29,Paseo la Breña,Salchipapa,42,Noche,20,16.9,0,0
+2026-05-30,Paseo la Breña,Alitas BBQ,23,Almuerzo,13,15.5,0.2,0
+2026-05-30,Paseo la Breña,Alitas BBQ,33,Noche,20,15.5,0.2,0
+2026-05-30,Paseo la Breña,Hamburguesa,26,Almuerzo,13,15.5,0.2,0
+2026-05-30,Paseo la Breña,Hamburguesa,37,Noche,20,15.5,0.2,0
+2026-05-30,Paseo la Breña,Pollo broaster,39,Almuerzo,13,15.5,0.2,0
+2026-05-30,Paseo la Breña,Pollo broaster,61,Noche,20,15.5,0.2,0
+2026-05-30,Paseo la Breña,Salchipapa,33,Almuerzo,13,15.5,0.2,0
+2026-05-30,Paseo la Breña,Salchipapa,51,Noche,20,15.5,0.2,0
+2026-05-31,Paseo la Breña,Alitas BBQ,16,Almuerzo,13,16.8,0.7,0
+2026-05-31,Paseo la Breña,Alitas BBQ,33,Noche,20,16.8,0.7,0
+2026-05-31,Paseo la Breña,Hamburguesa,20,Almuerzo,13,16.8,0.7,0
+2026-05-31,Paseo la Breña,Hamburguesa,38,Noche,20,16.8,0.7,0
+2026-05-31,Paseo la Breña,Pollo broaster,55,Almuerzo,13,16.8,0.7,0
+2026-05-31,Paseo la Breña,Pollo broaster,69,Noche,20,16.8,0.7,0
+2026-05-31,Paseo la Breña,Salchipapa,31,Almuerzo,13,16.8,0.7,0
+2026-05-31,Paseo la Breña,Salchipapa,47,Noche,20,16.8,0.7,0

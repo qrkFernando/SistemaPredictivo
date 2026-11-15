@@ -1,0 +1,305 @@
+fecha,sede,producto,cantidad,turno,hora,temperatura,lluvia,evento
+2026-04-24,Giráldez,Alitas BBQ,21,Almuerzo,13,14.2,3.1,0
+2026-04-24,Giráldez,Alitas BBQ,33,Noche,20,14.2,3.1,0
+2026-04-24,Giráldez,Hamburguesa,28,Almuerzo,13,14.2,3.1,0
+2026-04-24,Giráldez,Hamburguesa,42,Noche,20,14.2,3.1,0
+2026-04-24,Giráldez,Pollo broaster,39,Almuerzo,13,14.2,3.1,0
+2026-04-24,Giráldez,Pollo broaster,65,Noche,20,14.2,3.1,0
+2026-04-24,Giráldez,Salchipapa,34,Almuerzo,13,14.2,3.1,0
+2026-04-24,Giráldez,Salchipapa,54,Noche,20,14.2,3.1,0
+2026-04-25,Giráldez,Alitas BBQ,18,Almuerzo,13,13.1,0.8,0
+2026-04-25,Giráldez,Alitas BBQ,36,Noche,20,13.1,0.8,0
+2026-04-25,Giráldez,Hamburguesa,31,Almuerzo,13,13.1,0.8,0
+2026-04-25,Giráldez,Hamburguesa,45,Noche,20,13.1,0.8,0
+2026-04-25,Giráldez,Pollo broaster,33,Almuerzo,13,13.1,0.8,0
+2026-04-25,Giráldez,Pollo broaster,75,Noche,20,13.1,0.8,0
+2026-04-25,Giráldez,Salchipapa,37,Almuerzo,13,13.1,0.8,0
+2026-04-25,Giráldez,Salchipapa,57,Noche,20,13.1,0.8,0
+2026-04-26,Giráldez,Alitas BBQ,24,Almuerzo,13,12.9,2.1,0
+2026-04-26,Giráldez,Alitas BBQ,34,Noche,20,12.9,2.1,0
+2026-04-26,Giráldez,Hamburguesa,28,Almuerzo,13,12.9,2.1,0
+2026-04-26,Giráldez,Hamburguesa,46,Noche,20,12.9,2.1,0
+2026-04-26,Giráldez,Pollo broaster,49,Almuerzo,13,12.9,2.1,0
+2026-04-26,Giráldez,Pollo broaster,70,Noche,20,12.9,2.1,0
+2026-04-26,Giráldez,Salchipapa,33,Almuerzo,13,12.9,2.1,0
+2026-04-26,Giráldez,Salchipapa,50,Noche,20,12.9,2.1,0
+2026-04-27,Giráldez,Alitas BBQ,14,Almuerzo,13,15.3,0,0
+2026-04-27,Giráldez,Alitas BBQ,20,Noche,20,15.3,0,0
+2026-04-27,Giráldez,Hamburguesa,21,Almuerzo,13,15.3,0,0
+2026-04-27,Giráldez,Hamburguesa,27,Noche,20,15.3,0,0
+2026-04-27,Giráldez,Pollo broaster,30,Almuerzo,13,15.3,0,0
+2026-04-27,Giráldez,Pollo broaster,51,Noche,20,15.3,0,0
+2026-04-27,Giráldez,Salchipapa,25,Almuerzo,13,15.3,0,0
+2026-04-27,Giráldez,Salchipapa,31,Noche,20,15.3,0,0
+2026-04-28,Giráldez,Alitas BBQ,15,Almuerzo,13,13.8,3.5,0
+2026-04-28,Giráldez,Alitas BBQ,24,Noche,20,13.8,3.5,0
+2026-04-28,Giráldez,Hamburguesa,20,Almuerzo,13,13.8,3.5,0
+2026-04-28,Giráldez,Hamburguesa,30,Noche,20,13.8,3.5,0
+2026-04-28,Giráldez,Pollo broaster,29,Almuerzo,13,13.8,3.5,0
+2026-04-28,Giráldez,Pollo broaster,47,Noche,20,13.8,3.5,0
+2026-04-28,Giráldez,Salchipapa,24,Almuerzo,13,13.8,3.5,0
+2026-04-28,Giráldez,Salchipapa,37,Noche,20,13.8,3.5,0
+2026-04-29,Giráldez,Alitas BBQ,19,Almuerzo,13,14.5,0,0
+2026-04-29,Giráldez,Alitas BBQ,27,Noche,20,14.5,0,0
+2026-04-29,Giráldez,Hamburguesa,23,Almuerzo,13,14.5,0,0
+2026-04-29,Giráldez,Hamburguesa,31,Noche,20,14.5,0,0
+2026-04-29,Giráldez,Pollo broaster,33,Almuerzo,13,14.5,0,0
+2026-04-29,Giráldez,Pollo broaster,40,Noche,20,14.5,0,0
+2026-04-29,Giráldez,Salchipapa,20,Almuerzo,13,14.5,0,0
+2026-04-29,Giráldez,Salchipapa,35,Noche,20,14.5,0,0
+2026-04-30,Giráldez,Alitas BBQ,13,Almuerzo,13,13.3,2.9,0
+2026-04-30,Giráldez,Alitas BBQ,20,Noche,20,13.3,2.9,0
+2026-04-30,Giráldez,Hamburguesa,18,Almuerzo,13,13.3,2.9,0
+2026-04-30,Giráldez,Hamburguesa,23,Noche,20,13.3,2.9,0
+2026-04-30,Giráldez,Pollo broaster,34,Almuerzo,13,13.3,2.9,0
+2026-04-30,Giráldez,Pollo broaster,42,Noche,20,13.3,2.9,0
+2026-04-30,Giráldez,Salchipapa,25,Almuerzo,13,13.3,2.9,0
+2026-04-30,Giráldez,Salchipapa,40,Noche,20,13.3,2.9,0
+2026-05-01,Giráldez,Alitas BBQ,16,Almuerzo,13,15.8,0,0
+2026-05-01,Giráldez,Alitas BBQ,35,Noche,20,15.8,0,0
+2026-05-01,Giráldez,Hamburguesa,26,Almuerzo,13,15.8,0,0
+2026-05-01,Giráldez,Hamburguesa,43,Noche,20,15.8,0,0
+2026-05-01,Giráldez,Pollo broaster,49,Almuerzo,13,15.8,0,0
+2026-05-01,Giráldez,Pollo broaster,79,Noche,20,15.8,0,0
+2026-05-01,Giráldez,Salchipapa,29,Almuerzo,13,15.8,0,0
+2026-05-01,Giráldez,Salchipapa,51,Noche,20,15.8,0,0
+2026-05-02,Giráldez,Alitas BBQ,22,Almuerzo,13,12.8,3.2,0
+2026-05-02,Giráldez,Alitas BBQ,32,Noche,20,12.8,3.2,0
+2026-05-02,Giráldez,Hamburguesa,24,Almuerzo,13,12.8,3.2,0
+2026-05-02,Giráldez,Hamburguesa,35,Noche,20,12.8,3.2,0
+2026-05-02,Giráldez,Pollo broaster,51,Almuerzo,13,12.8,3.2,0
+2026-05-02,Giráldez,Pollo broaster,66,Noche,20,12.8,3.2,0
+2026-05-02,Giráldez,Salchipapa,27,Almuerzo,13,12.8,3.2,0
+2026-05-02,Giráldez,Salchipapa,52,Noche,20,12.8,3.2,0
+2026-05-03,Giráldez,Alitas BBQ,25,Almuerzo,13,14.1,0,0
+2026-05-03,Giráldez,Alitas BBQ,31,Noche,20,14.1,0,0
+2026-05-03,Giráldez,Hamburguesa,30,Almuerzo,13,14.1,0,0
+2026-05-03,Giráldez,Hamburguesa,43,Noche,20,14.1,0,0
+2026-05-03,Giráldez,Pollo broaster,42,Almuerzo,13,14.1,0,0
+2026-05-03,Giráldez,Pollo broaster,77,Noche,20,14.1,0,0
+2026-05-03,Giráldez,Salchipapa,33,Almuerzo,13,14.1,0,0
+2026-05-03,Giráldez,Salchipapa,51,Noche,20,14.1,0,0
+2026-05-04,Giráldez,Alitas BBQ,18,Almuerzo,13,14.3,3.1,0
+2026-05-04,Giráldez,Alitas BBQ,13,Noche,20,14.3,3.1,0
+2026-05-04,Giráldez,Hamburguesa,20,Almuerzo,13,14.3,3.1,0
+2026-05-04,Giráldez,Hamburguesa,16,Noche,20,14.3,3.1,0
+2026-05-04,Giráldez,Pollo broaster,25,Almuerzo,13,14.3,3.1,0
+2026-05-04,Giráldez,Pollo broaster,48,Noche,20,14.3,3.1,0
+2026-05-04,Giráldez,Salchipapa,18,Almuerzo,13,14.3,3.1,0
+2026-05-04,Giráldez,Salchipapa,37,Noche,20,14.3,3.1,0
+2026-05-05,Giráldez,Alitas BBQ,13,Almuerzo,13,14.6,0,0
+2026-05-05,Giráldez,Alitas BBQ,19,Noche,20,14.6,0,0
+2026-05-05,Giráldez,Hamburguesa,10,Almuerzo,13,14.6,0,0
+2026-05-05,Giráldez,Hamburguesa,31,Noche,20,14.6,0,0
+2026-05-05,Giráldez,Pollo broaster,23,Almuerzo,13,14.6,0,0
+2026-05-05,Giráldez,Pollo broaster,51,Noche,20,14.6,0,0
+2026-05-05,Giráldez,Salchipapa,18,Almuerzo,13,14.6,0,0
+2026-05-05,Giráldez,Salchipapa,28,Noche,20,14.6,0,0
+2026-05-06,Giráldez,Alitas BBQ,10,Almuerzo,13,15.9,4.0,0
+2026-05-06,Giráldez,Alitas BBQ,28,Noche,20,15.9,4.0,0
+2026-05-06,Giráldez,Hamburguesa,15,Almuerzo,13,15.9,4.0,0
+2026-05-06,Giráldez,Hamburguesa,33,Noche,20,15.9,4.0,0
+2026-05-06,Giráldez,Pollo broaster,20,Almuerzo,13,15.9,4.0,0
+2026-05-06,Giráldez,Pollo broaster,43,Noche,20,15.9,4.0,0
+2026-05-06,Giráldez,Salchipapa,21,Almuerzo,13,15.9,4.0,0
+2026-05-06,Giráldez,Salchipapa,28,Noche,20,15.9,4.0,0
+2026-05-07,Giráldez,Alitas BBQ,13,Almuerzo,13,14.4,0,0
+2026-05-07,Giráldez,Alitas BBQ,18,Noche,20,14.4,0,0
+2026-05-07,Giráldez,Hamburguesa,13,Almuerzo,13,14.4,0,0
+2026-05-07,Giráldez,Hamburguesa,19,Noche,20,14.4,0,0
+2026-05-07,Giráldez,Pollo broaster,22,Almuerzo,13,14.4,0,0
+2026-05-07,Giráldez,Pollo broaster,47,Noche,20,14.4,0,0
+2026-05-07,Giráldez,Salchipapa,18,Almuerzo,13,14.4,0,0
+2026-05-07,Giráldez,Salchipapa,29,Noche,20,14.4,0,0
+2026-05-08,Giráldez,Alitas BBQ,23,Almuerzo,13,14.3,7.5,0
+2026-05-08,Giráldez,Alitas BBQ,31,Noche,20,14.3,7.5,0
+2026-05-08,Giráldez,Hamburguesa,21,Almuerzo,13,14.3,7.5,0
+2026-05-08,Giráldez,Hamburguesa,41,Noche,20,14.3,7.5,0
+2026-05-08,Giráldez,Pollo broaster,47,Almuerzo,13,14.3,7.5,0
+2026-05-08,Giráldez,Pollo broaster,72,Noche,20,14.3,7.5,0
+2026-05-08,Giráldez,Salchipapa,37,Almuerzo,13,14.3,7.5,0
+2026-05-08,Giráldez,Salchipapa,46,Noche,20,14.3,7.5,0
+2026-05-09,Giráldez,Alitas BBQ,20,Almuerzo,13,15.0,0.4,0
+2026-05-09,Giráldez,Alitas BBQ,36,Noche,20,15.0,0.4,0
+2026-05-09,Giráldez,Hamburguesa,27,Almuerzo,13,15.0,0.4,0
+2026-05-09,Giráldez,Hamburguesa,42,Noche,20,15.0,0.4,0
+2026-05-09,Giráldez,Pollo broaster,47,Almuerzo,13,15.0,0.4,0
+2026-05-09,Giráldez,Pollo broaster,67,Noche,20,15.0,0.4,0
+2026-05-09,Giráldez,Salchipapa,34,Almuerzo,13,15.0,0.4,0
+2026-05-09,Giráldez,Salchipapa,50,Noche,20,15.0,0.4,0
+2026-05-10,Giráldez,Alitas BBQ,18,Almuerzo,13,14.9,4.1,0
+2026-05-10,Giráldez,Alitas BBQ,37,Noche,20,14.9,4.1,0
+2026-05-10,Giráldez,Hamburguesa,29,Almuerzo,13,14.9,4.1,0
+2026-05-10,Giráldez,Hamburguesa,48,Noche,20,14.9,4.1,0
+2026-05-10,Giráldez,Pollo broaster,45,Almuerzo,13,14.9,4.1,0
+2026-05-10,Giráldez,Pollo broaster,69,Noche,20,14.9,4.1,0
+2026-05-10,Giráldez,Salchipapa,25,Almuerzo,13,14.9,4.1,0
+2026-05-10,Giráldez,Salchipapa,52,Noche,20,14.9,4.1,0
+2026-05-11,Giráldez,Alitas BBQ,12,Almuerzo,13,16.5,3.2,0
+2026-05-11,Giráldez,Alitas BBQ,22,Noche,20,16.5,3.2,0
+2026-05-11,Giráldez,Hamburguesa,18,Almuerzo,13,16.5,3.2,0
+2026-05-11,Giráldez,Hamburguesa,27,Noche,20,16.5,3.2,0
+2026-05-11,Giráldez,Pollo broaster,31,Almuerzo,13,16.5,3.2,0
+2026-05-11,Giráldez,Pollo broaster,43,Noche,20,16.5,3.2,0
+2026-05-11,Giráldez,Salchipapa,22,Almuerzo,13,16.5,3.2,0
+2026-05-11,Giráldez,Salchipapa,30,Noche,20,16.5,3.2,0
+2026-05-12,Giráldez,Alitas BBQ,14,Almuerzo,13,14.8,0,0
+2026-05-12,Giráldez,Alitas BBQ,24,Noche,20,14.8,0,0
+2026-05-12,Giráldez,Hamburguesa,18,Almuerzo,13,14.8,0,0
+2026-05-12,Giráldez,Hamburguesa,30,Noche,20,14.8,0,0
+2026-05-12,Giráldez,Pollo broaster,32,Almuerzo,13,14.8,0,0
+2026-05-12,Giráldez,Pollo broaster,49,Noche,20,14.8,0,0
+2026-05-12,Giráldez,Salchipapa,23,Almuerzo,13,14.8,0,0
+2026-05-12,Giráldez,Salchipapa,33,Noche,20,14.8,0,0
+2026-05-13,Giráldez,Alitas BBQ,10,Almuerzo,13,15.1,8.1,0
+2026-05-13,Giráldez,Alitas BBQ,26,Noche,20,15.1,8.1,0
+2026-05-13,Giráldez,Hamburguesa,19,Almuerzo,13,15.1,8.1,0
+2026-05-13,Giráldez,Hamburguesa,29,Noche,20,15.1,8.1,0
+2026-05-13,Giráldez,Pollo broaster,27,Almuerzo,13,15.1,8.1,0
+2026-05-13,Giráldez,Pollo broaster,42,Noche,20,15.1,8.1,0
+2026-05-13,Giráldez,Salchipapa,21,Almuerzo,13,15.1,8.1,0
+2026-05-13,Giráldez,Salchipapa,28,Noche,20,15.1,8.1,0
+2026-05-14,Giráldez,Alitas BBQ,19,Almuerzo,13,16.9,3.6,0
+2026-05-14,Giráldez,Alitas BBQ,23,Noche,20,16.9,3.6,0
+2026-05-14,Giráldez,Hamburguesa,20,Almuerzo,13,16.9,3.6,0
+2026-05-14,Giráldez,Hamburguesa,27,Noche,20,16.9,3.6,0
+2026-05-14,Giráldez,Pollo broaster,22,Almuerzo,13,16.9,3.6,0
+2026-05-14,Giráldez,Pollo broaster,56,Noche,20,16.9,3.6,0
+2026-05-14,Giráldez,Salchipapa,21,Almuerzo,13,16.9,3.6,0
+2026-05-14,Giráldez,Salchipapa,30,Noche,20,16.9,3.6,0
+2026-05-15,Giráldez,Alitas BBQ,18,Almuerzo,13,16.4,3.1,0
+2026-05-15,Giráldez,Alitas BBQ,31,Noche,20,16.4,3.1,0
+2026-05-15,Giráldez,Hamburguesa,29,Almuerzo,13,16.4,3.1,0
+2026-05-15,Giráldez,Hamburguesa,43,Noche,20,16.4,3.1,0
+2026-05-15,Giráldez,Pollo broaster,47,Almuerzo,13,16.4,3.1,0
+2026-05-15,Giráldez,Pollo broaster,66,Noche,20,16.4,3.1,0
+2026-05-15,Giráldez,Salchipapa,35,Almuerzo,13,16.4,3.1,0
+2026-05-15,Giráldez,Salchipapa,40,Noche,20,16.4,3.1,0
+2026-05-16,Giráldez,Alitas BBQ,23,Almuerzo,13,16.1,0.8,0
+2026-05-16,Giráldez,Alitas BBQ,37,Noche,20,16.1,0.8,0
+2026-05-16,Giráldez,Hamburguesa,30,Almuerzo,13,16.1,0.8,0
+2026-05-16,Giráldez,Hamburguesa,42,Noche,20,16.1,0.8,0
+2026-05-16,Giráldez,Pollo broaster,53,Almuerzo,13,16.1,0.8,0
+2026-05-16,Giráldez,Pollo broaster,68,Noche,20,16.1,0.8,0
+2026-05-16,Giráldez,Salchipapa,31,Almuerzo,13,16.1,0.8,0
+2026-05-16,Giráldez,Salchipapa,55,Noche,20,16.1,0.8,0
+2026-05-17,Giráldez,Alitas BBQ,18,Almuerzo,13,14.9,2.6,0
+2026-05-17,Giráldez,Alitas BBQ,32,Noche,20,14.9,2.6,0
+2026-05-17,Giráldez,Hamburguesa,34,Almuerzo,13,14.9,2.6,0
+2026-05-17,Giráldez,Hamburguesa,40,Noche,20,14.9,2.6,0
+2026-05-17,Giráldez,Pollo broaster,51,Almuerzo,13,14.9,2.6,0
+2026-05-17,Giráldez,Pollo broaster,75,Noche,20,14.9,2.6,0
+2026-05-17,Giráldez,Salchipapa,36,Almuerzo,13,14.9,2.6,0
+2026-05-17,Giráldez,Salchipapa,53,Noche,20,14.9,2.6,0
+2026-05-18,Giráldez,Alitas BBQ,15,Almuerzo,13,16.2,0,0
+2026-05-18,Giráldez,Alitas BBQ,25,Noche,20,16.2,0,0
+2026-05-18,Giráldez,Hamburguesa,22,Almuerzo,13,16.2,0,0
+2026-05-18,Giráldez,Hamburguesa,38,Noche,20,16.2,0,0
+2026-05-18,Giráldez,Pollo broaster,34,Almuerzo,13,16.2,0,0
+2026-05-18,Giráldez,Pollo broaster,38,Noche,20,16.2,0,0
+2026-05-18,Giráldez,Salchipapa,19,Almuerzo,13,16.2,0,0
+2026-05-18,Giráldez,Salchipapa,26,Noche,20,16.2,0,0
+2026-05-19,Giráldez,Alitas BBQ,13,Almuerzo,13,15.5,0,0
+2026-05-19,Giráldez,Alitas BBQ,22,Noche,20,15.5,0,0
+2026-05-19,Giráldez,Hamburguesa,19,Almuerzo,13,15.5,0,0
+2026-05-19,Giráldez,Hamburguesa,28,Noche,20,15.5,0,0
+2026-05-19,Giráldez,Pollo broaster,21,Almuerzo,13,15.5,0,0
+2026-05-19,Giráldez,Pollo broaster,55,Noche,20,15.5,0,0
+2026-05-19,Giráldez,Salchipapa,26,Almuerzo,13,15.5,0,0
+2026-05-19,Giráldez,Salchipapa,32,Noche,20,15.5,0,0
+2026-05-20,Giráldez,Alitas BBQ,14,Almuerzo,13,16.7,1.2,0
+2026-05-20,Giráldez,Alitas BBQ,19,Noche,20,16.7,1.2,0
+2026-05-20,Giráldez,Hamburguesa,10,Almuerzo,13,16.7,1.2,0
+2026-05-20,Giráldez,Hamburguesa,28,Noche,20,16.7,1.2,0
+2026-05-20,Giráldez,Pollo broaster,27,Almuerzo,13,16.7,1.2,0
+2026-05-20,Giráldez,Pollo broaster,37,Noche,20,16.7,1.2,0
+2026-05-20,Giráldez,Salchipapa,21,Almuerzo,13,16.7,1.2,0
+2026-05-20,Giráldez,Salchipapa,33,Noche,20,16.7,1.2,0
+2026-05-21,Giráldez,Alitas BBQ,17,Almuerzo,13,14.1,0,0
+2026-05-21,Giráldez,Alitas BBQ,25,Noche,20,14.1,0,0
+2026-05-21,Giráldez,Hamburguesa,13,Almuerzo,13,14.1,0,0
+2026-05-21,Giráldez,Hamburguesa,28,Noche,20,14.1,0,0
+2026-05-21,Giráldez,Pollo broaster,31,Almuerzo,13,14.1,0,0
+2026-05-21,Giráldez,Pollo broaster,47,Noche,20,14.1,0,0
+2026-05-21,Giráldez,Salchipapa,21,Almuerzo,13,14.1,0,0
+2026-05-21,Giráldez,Salchipapa,30,Noche,20,14.1,0,0
+2026-05-22,Giráldez,Alitas BBQ,23,Almuerzo,13,15.6,3.1,0
+2026-05-22,Giráldez,Alitas BBQ,37,Noche,20,15.6,3.1,0
+2026-05-22,Giráldez,Hamburguesa,29,Almuerzo,13,15.6,3.1,0
+2026-05-22,Giráldez,Hamburguesa,46,Noche,20,15.6,3.1,0
+2026-05-22,Giráldez,Pollo broaster,47,Almuerzo,13,15.6,3.1,0
+2026-05-22,Giráldez,Pollo broaster,75,Noche,20,15.6,3.1,0
+2026-05-22,Giráldez,Salchipapa,37,Almuerzo,13,15.6,3.1,0
+2026-05-22,Giráldez,Salchipapa,48,Noche,20,15.6,3.1,0
+2026-05-23,Giráldez,Alitas BBQ,22,Almuerzo,13,14.5,6.2,0
+2026-05-23,Giráldez,Alitas BBQ,34,Noche,20,14.5,6.2,0
+2026-05-23,Giráldez,Hamburguesa,26,Almuerzo,13,14.5,6.2,0
+2026-05-23,Giráldez,Hamburguesa,46,Noche,20,14.5,6.2,0
+2026-05-23,Giráldez,Pollo broaster,47,Almuerzo,13,14.5,6.2,0
+2026-05-23,Giráldez,Pollo broaster,61,Noche,20,14.5,6.2,0
+2026-05-23,Giráldez,Salchipapa,39,Almuerzo,13,14.5,6.2,0
+2026-05-23,Giráldez,Salchipapa,47,Noche,20,14.5,6.2,0
+2026-05-24,Giráldez,Alitas BBQ,25,Almuerzo,13,15.5,2.3,0
+2026-05-24,Giráldez,Alitas BBQ,34,Noche,20,15.5,2.3,0
+2026-05-24,Giráldez,Hamburguesa,30,Almuerzo,13,15.5,2.3,0
+2026-05-24,Giráldez,Hamburguesa,45,Noche,20,15.5,2.3,0
+2026-05-24,Giráldez,Pollo broaster,48,Almuerzo,13,15.5,2.3,0
+2026-05-24,Giráldez,Pollo broaster,74,Noche,20,15.5,2.3,0
+2026-05-24,Giráldez,Salchipapa,33,Almuerzo,13,15.5,2.3,0
+2026-05-24,Giráldez,Salchipapa,51,Noche,20,15.5,2.3,0
+2026-05-25,Giráldez,Alitas BBQ,14,Almuerzo,13,16.5,4.0,0
+2026-05-25,Giráldez,Alitas BBQ,24,Noche,20,16.5,4.0,0
+2026-05-25,Giráldez,Hamburguesa,14,Almuerzo,13,16.5,4.0,0
+2026-05-25,Giráldez,Hamburguesa,28,Noche,20,16.5,4.0,0
+2026-05-25,Giráldez,Pollo broaster,32,Almuerzo,13,16.5,4.0,0
+2026-05-25,Giráldez,Pollo broaster,47,Noche,20,16.5,4.0,0
+2026-05-25,Giráldez,Salchipapa,30,Almuerzo,13,16.5,4.0,0
+2026-05-25,Giráldez,Salchipapa,30,Noche,20,16.5,4.0,0
+2026-05-26,Giráldez,Alitas BBQ,11,Almuerzo,13,16.7,4.9,0
+2026-05-26,Giráldez,Alitas BBQ,22,Noche,20,16.7,4.9,0
+2026-05-26,Giráldez,Hamburguesa,16,Almuerzo,13,16.7,4.9,0
+2026-05-26,Giráldez,Hamburguesa,28,Noche,20,16.7,4.9,0
+2026-05-26,Giráldez,Pollo broaster,29,Almuerzo,13,16.7,4.9,0
+2026-05-26,Giráldez,Pollo broaster,61,Noche,20,16.7,4.9,0
+2026-05-26,Giráldez,Salchipapa,23,Almuerzo,13,16.7,4.9,0
+2026-05-26,Giráldez,Salchipapa,37,Noche,20,16.7,4.9,0
+2026-05-27,Giráldez,Alitas BBQ,11,Almuerzo,13,16.6,5.5,0
+2026-05-27,Giráldez,Alitas BBQ,21,Noche,20,16.6,5.5,0
+2026-05-27,Giráldez,Hamburguesa,28,Almuerzo,13,16.6,5.5,0
+2026-05-27,Giráldez,Hamburguesa,28,Noche,20,16.6,5.5,0
+2026-05-27,Giráldez,Pollo broaster,29,Almuerzo,13,16.6,5.5,0
+2026-05-27,Giráldez,Pollo broaster,45,Noche,20,16.6,5.5,0
+2026-05-27,Giráldez,Salchipapa,17,Almuerzo,13,16.6,5.5,0
+2026-05-27,Giráldez,Salchipapa,37,Noche,20,16.6,5.5,0
+2026-05-28,Giráldez,Alitas BBQ,15,Almuerzo,13,15.9,2.1,0
+2026-05-28,Giráldez,Alitas BBQ,25,Noche,20,15.9,2.1,0
+2026-05-28,Giráldez,Hamburguesa,14,Almuerzo,13,15.9,2.1,0
+2026-05-28,Giráldez,Hamburguesa,23,Noche,20,15.9,2.1,0
+2026-05-28,Giráldez,Pollo broaster,28,Almuerzo,13,15.9,2.1,0
+2026-05-28,Giráldez,Pollo broaster,51,Noche,20,15.9,2.1,0
+2026-05-28,Giráldez,Salchipapa,23,Almuerzo,13,15.9,2.1,0
+2026-05-28,Giráldez,Salchipapa,29,Noche,20,15.9,2.1,0
+2026-05-29,Giráldez,Alitas BBQ,25,Almuerzo,13,16.9,0,0
+2026-05-29,Giráldez,Alitas BBQ,39,Noche,20,16.9,0,0
+2026-05-29,Giráldez,Hamburguesa,32,Almuerzo,13,16.9,0,0
+2026-05-29,Giráldez,Hamburguesa,46,Noche,20,16.9,0,0
+2026-05-29,Giráldez,Pollo broaster,42,Almuerzo,13,16.9,0,0
+2026-05-29,Giráldez,Pollo broaster,66,Noche,20,16.9,0,0
+2026-05-29,Giráldez,Salchipapa,45,Almuerzo,13,16.9,0,0
+2026-05-29,Giráldez,Salchipapa,45,Noche,20,16.9,0,0
+2026-05-30,Giráldez,Alitas BBQ,24,Almuerzo,13,15.5,0.2,0
+2026-05-30,Giráldez,Alitas BBQ,35,Noche,20,15.5,0.2,0
+2026-05-30,Giráldez,Hamburguesa,28,Almuerzo,13,15.5,0.2,0
+2026-05-30,Giráldez,Hamburguesa,39,Noche,20,15.5,0.2,0
+2026-05-30,Giráldez,Pollo broaster,41,Almuerzo,13,15.5,0.2,0
+2026-05-30,Giráldez,Pollo broaster,65,Noche,20,15.5,0.2,0
+2026-05-30,Giráldez,Salchipapa,35,Almuerzo,13,15.5,0.2,0
+2026-05-30,Giráldez,Salchipapa,54,Noche,20,15.5,0.2,0
+2026-05-31,Giráldez,Alitas BBQ,17,Almuerzo,13,16.8,0.7,0
+2026-05-31,Giráldez,Alitas BBQ,35,Noche,20,16.8,0.7,0
+2026-05-31,Giráldez,Hamburguesa,21,Almuerzo,13,16.8,0.7,0
+2026-05-31,Giráldez,Hamburguesa,40,Noche,20,16.8,0.7,0
+2026-05-31,Giráldez,Pollo broaster,58,Almuerzo,13,16.8,0.7,0
+2026-05-31,Giráldez,Pollo broaster,73,Noche,20,16.8,0.7,0
+2026-05-31,Giráldez,Salchipapa,32,Almuerzo,13,16.8,0.7,0
+2026-05-31,Giráldez,Salchipapa,49,Noche,20,16.8,0.7,0
